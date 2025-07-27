@@ -1,0 +1,10 @@
+[package]
+name    = "gst_hello"
+version = "0.1.0"
+edition = "2021"
+authors = ["Yonghye Kwon <developer.0hye@gmail.com>"]
+license = "MIT"
+
+[dependencies]
+# Only the core binding is required for this ultra-minimal demo
+gstreamer = "0.24"
