@@ -15,7 +15,7 @@ The application reads a video file and processes it using GStreamer's `playbin` 
 ## Project Structure
 
 ```
-02-hello-gstreamer/
+02-gstreamer-hello/
 ├── Cargo.toml          # Rust project configuration
 ├── Dockerfile          # Container build instructions
 ├── README.md           # This file
